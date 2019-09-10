@@ -17,7 +17,8 @@ The following are some organizations under QCA:
 
 Queens College Student Government; SA also allocates funds and space for clubs.
 
-[Link to Student Government Directory](SA.md). 
+[Link to Student Government Directory](SA.md).
+
 [Link to Club Directory](Clubs.md)
 
 #### Committee for Disabled Students (CDS)
