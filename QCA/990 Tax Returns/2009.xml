@@ -1,0 +1,734 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-04-25T14:39:00-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>GRANT THORNTON LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>666 THIRD AVENUE</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>100174011</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>113117003</EIN>
+      <Name>
+        <BusinessNameLine1>QUEENS COLLEGE ASSOCIATION</BusinessNameLine1>
+      </Name>
+      <NameControl>QUEE</NameControl>
+      <Phone>7189973970</Phone>
+      <USAddress>
+        <AddressLine1>65-30 KISSENA BOULEVARD</AddressLine1>
+        <City>FLUSHING</City>
+        <State>NY</State>
+        <ZIPCode>11367</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Jennifer Jarvis</Name>
+      <Title>Chairperson</Title>
+      <DateSigned>2011-04-25</DateSigned>
+    </Officer>
+    <Preparer>
+      <Phone>2125429609</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990 documentId="IRS990" referenceDocumentId="IRS990ScheduleO">
+      <NameOfPrincipalOfficerPerson>Jennifer Jarvis</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>65-30 KISSENA BLVD</AddressLine1>
+        <City>Flushing</City>
+        <State>NY</State>
+        <ZIPCode>113673970</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>789062</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="3">X</Organization501c>
+      <WebSite>WWW.QC.CUNY.EDU</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1937</YearFormation>
+      <StateLegalDomicile>NY</StateLegalDomicile>
+      <ActivityOrMissionDescription>QUEENS COLLEGE ASSOCIATION, INC. WAS CREATED FOR THE PRINCIPAL PURPOSe OF DEVELOPING AND CULTIVATING EDUCATIONAL, SOCIAL, CULTURAL, AND RECREATIONAL ACTIVITIES AMONG STUDENTS OF QUEENS COLLEGE.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>10</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>6</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>8</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>793000</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>785493</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>4892</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>3569</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>797892</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>789062</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>34584</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>83401</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>150247</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>753028</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>508233</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>871013</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>658480</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-73121</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>130582</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>241951</TotalAssetsBOY>
+      <TotalAssetsEOY>418615</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>86579</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>132661</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>155372</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>285954</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>QUEENS COLLEGE ASSOCIATION, INC. OF THE CITY UNIVERSITY OF NEW YORK WAS CREATED FOR THE PRINCIPAL PURPOSE OF DEVELOPING AND CULTIVATING EDUCATIONAL, SOCIAL, CULTURAL, AND RECREATIONAL ACTIVITIES AMONG STUDENTS OF QUEENS COLLEGE.</MissionDescription>
+      <SignificantNewProgramServices>false</SignificantNewProgramServices>
+      <SignificantChange>false</SignificantChange>
+      <Expense>636637</Expense>
+      <Grants>0</Grants>
+      <Revenue>785493</Revenue>
+      <Description>The Queens College Association (QCA) has the responsibility for the supervision and review of student activity fee supported budgets. The Association reviews all budgets to ensure they conform with all rules and regulations of the Fiscal Accountability Handbook, QCA, Queens College, City University of New York (CUNY) and other applicable Federal and State regulations. The Association monitors and develops many of the College's social, cultural and educational programs for the benefit of the College's student population.</Description>
+      <TotalProgramServiceExpense>636637</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="IRS990ScheduleA">true</DescribedIn501C3>
+      <ScheduleBRequired>false</ScheduleBRequired>
+      <PoliticalActivities>false</PoliticalActivities>
+      <LobbyingActivities>false</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="IRS990ScheduleD">false</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="IRS990ScheduleD">false</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="IRS990ScheduleD">false</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="IRS990ScheduleD">false</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="IRS990ScheduleD">false</TermOrPermanentEndowments>
+      <BalanceSheetAmountsReported referenceDocumentId="IRS990ScheduleD">true</BalanceSheetAmountsReported>
+      <IndependentAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">true</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">true</ConsolidatedAuditFinancialStmt>
+      <School>false</School>
+      <ForeignOffice>false</ForeignOffice>
+      <ForeignActivities>false</ForeignActivities>
+      <MoreThan5000KToOrganizations>false</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>false</ProfessionalFundraising>
+      <FundraisingActivities>false</FundraisingActivities>
+      <Gaming>false</Gaming>
+      <Hospital>false</Hospital>
+      <GrantsToOrganizations>false</GrantsToOrganizations>
+      <GrantsToIndividuals>false</GrantsToIndividuals>
+      <ScheduleJRequired>false</ScheduleJRequired>
+      <TaxExemptBonds>false</TaxExemptBonds>
+      <ExcessBenefitTransaction>false</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>false</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>false</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>false</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>false</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>false</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>false</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="IRS990ScheduleR">false</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="IRS990ScheduleR">true</RelatedEntity>
+      <RelatedOrgControlledEntity referenceDocumentId="IRS990ScheduleR">false</RelatedOrgControlledEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="IRS990ScheduleR">false</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="IRS990ScheduleR">false</ActivitiesConductedPartnership>
+      <ScheduleORequired>true</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>9</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>true</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>8</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>true</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>false</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <QuidProQuoContributions>false</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>false</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <NbrVotingGoverningBodyMembers>10</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>6</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>false</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>false</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>false</MembersOrStockholders>
+      <ElectionOfBoardMembers>true</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>false</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <Form990ProvidedToGoverningBody>true</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>true</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>true</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>true</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>false</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>true</DocumentRetentionPolicy>
+      <CompensationProcessCEO>true</CompensationProcessCEO>
+      <CompensationProcessOther>true</CompensationProcessOther>
+      <InvestmentInJointVenture>false</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>NY</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NamePerson>JENNIFER JARVIS</NamePerson>
+        <TelephoneNumber>7189973960</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>65-30 KISSENA BLVD</AddressLine1>
+          <City>FLUSHING</City>
+          <State>NY</State>
+          <ZIPCode>113673970</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <NoListedPersonsCompensated>X</NoListedPersonsCompensated>
+      <Form990PartVIISectionA>
+        <NamePerson>JENNIFER JARVIS</NamePerson>
+        <Title>Chairperson</Title>
+        <AverageHoursPerWeek>35.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>103132</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>27970</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>STEPHAN AIELLO</NamePerson>
+        <Title>Director of Adminstrative</Title>
+        <AverageHoursPerWeek>35.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>97577</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>26463</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN ANDREJACK</NamePerson>
+        <Title>Director of Student Life</Title>
+        <AverageHoursPerWeek>35.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>80161</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>21740</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MIRIAN DETRES HICKEY</NamePerson>
+        <Title>Director of Special Services</Title>
+        <AverageHoursPerWeek>35.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>94605</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>25657</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DANIEL MUCHNICK</NamePerson>
+        <Title>Student vice president</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Amanda Baron</NamePerson>
+        <Title>student member</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Firuza Uddin</NamePerson>
+        <Title>student member</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Matthew Molloy</NamePerson>
+        <Title>student member</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Ellis Cortez</NamePerson>
+        <Title>student member</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Gabriella Berrezueta</NamePerson>
+        <Title>student member</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>0</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>375475</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>101830</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>false</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <TotalContributions>0</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>STUDENT ACTIVITY FEES</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>745935</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>745935</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>STUDENT ORGANIZATIONS REVENUES</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>39558</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>39558</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>785493</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>3569</TotalRevenueColumn>
+        <ExclusionAmount>3569</ExclusionAmount>
+      </InvestmentIncome>
+      <IncomeFromInvestBondProceeds>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </IncomeFromInvestBondProceeds>
+      <RoyaltiesRevenue>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </RoyaltiesRevenue>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetGainOrLossInvestments>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromFundraisingEvents>
+      <NetIncomeFromGaming>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromGaming>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeOrLoss>
+      <TotalOtherRevenue>0</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>789062</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>785493</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>3569</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>0</Total>
+      </GrantsToDomesticOrgs>
+      <GrantsToDomesticIndividuals>
+        <Total>0</Total>
+      </GrantsToDomesticIndividuals>
+      <ForeignGrants>
+        <Total>0</Total>
+      </ForeignGrants>
+      <BenefitsToMembers>
+        <Total>0</Total>
+      </BenefitsToMembers>
+      <CompCurrentOfficersDirectors>
+        <Total>0</Total>
+      </CompCurrentOfficersDirectors>
+      <CompDisqualPersons>
+        <Total>0</Total>
+      </CompDisqualPersons>
+      <OtherSalariesAndWages>
+        <Total>124929</Total>
+        <ProgramServices>124929</ProgramServices>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>0</Total>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>17297</Total>
+        <ProgramServices>17297</ProgramServices>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>8021</Total>
+        <ProgramServices>8021</ProgramServices>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>0</Total>
+      </FeesForServicesManagement>
+      <FeesForServicesLegal>
+        <Total>0</Total>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>12380</Total>
+        <ManagementAndGeneral>12380</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>0</Total>
+      </FeesForServicesLobbying>
+      <FeesForServicesProfFundraising>
+        <Total>0</Total>
+      </FeesForServicesProfFundraising>
+      <FeesForServicesInvstMgmntFees>
+        <Total>0</Total>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>24790</Total>
+        <ProgramServices>24790</ProgramServices>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>85799</Total>
+        <ProgramServices>85799</ProgramServices>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>4492</Total>
+        <ProgramServices>4492</ProgramServices>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>156692</Total>
+        <ProgramServices>156692</ProgramServices>
+      </InformationTechnology>
+      <Royalties>
+        <Total>0</Total>
+      </Royalties>
+      <Occupancy>
+        <Total>0</Total>
+      </Occupancy>
+      <Travel>
+        <Total>3958</Total>
+        <ProgramServices>3958</ProgramServices>
+      </Travel>
+      <TravelEntrtnmntPublicOfficials>
+        <Total>0</Total>
+      </TravelEntrtnmntPublicOfficials>
+      <ConferencesMeetings>
+        <Total>20568</Total>
+        <ProgramServices>20568</ProgramServices>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>0</Total>
+      </Interest>
+      <PaymentsToAffiliates>
+        <Total>0</Total>
+      </PaymentsToAffiliates>
+      <DepreciationDepletion>
+        <Total>34296</Total>
+        <ProgramServices>34296</ProgramServices>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>4260</Total>
+        <ManagementAndGeneral>4260</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>EVENT REFRESHMENT</Description>
+        <Total>88278</Total>
+        <ProgramServices>88278</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LEADERSHIP PROGRAMS</Description>
+        <Total>21058</Total>
+        <ProgramServices>21058</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BAD DEBT</Description>
+        <Total>18871</Total>
+        <ProgramServices>18871</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ORGANIZATIONAL DEVELOPMENT</Description>
+        <Total>8515</Total>
+        <ProgramServices>8515</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES AND SUBSCRIPTIONS</Description>
+        <Total>5358</Total>
+        <ProgramServices>5358</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>18918</Total>
+        <ProgramServices>13715</ProgramServices>
+        <ManagementAndGeneral>5203</ManagementAndGeneral>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>658480</Total>
+        <ProgramServices>636637</ProgramServices>
+        <ManagementAndGeneral>21843</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <SavingsAndTempCashInvestments>
+        <BOY>146790</BOY>
+        <EOY>357209</EOY>
+      </SavingsAndTempCashInvestments>
+      <AccountsReceivable>
+        <BOY>10832</BOY>
+        <EOY>685</EOY>
+      </AccountsReceivable>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>7155</BOY>
+        <EOY>6876</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>208576</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>174216</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>57657</BOY>
+        <EOY>34360</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <OtherAssetsTotal>
+        <BOY>19517</BOY>
+        <EOY>19485</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>241951</BOY>
+        <EOY>418615</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>40758</BOY>
+        <EOY>85172</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>45821</BOY>
+        <EOY>47489</EOY>
+      </DeferredRevenue>
+      <TotalLiabilities>
+        <BOY>86579</BOY>
+        <EOY>132661</EOY>
+      </TotalLiabilities>
+      <DoNotFollowSFAS117>X</DoNotFollowSFAS117>
+      <PaidInCapSrplsLandBldgEqpFund>
+        <BOY>57657</BOY>
+        <EOY>34360</EOY>
+      </PaidInCapSrplsLandBldgEqpFund>
+      <RetainedEarningsEndowmentEtc>
+        <BOY>97715</BOY>
+        <EOY>251594</EOY>
+      </RetainedEarningsEndowmentEtc>
+      <TotalNetAssetsFundBalances>
+        <BOY>155372</BOY>
+        <EOY>285954</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>241951</BOY>
+        <EOY>418615</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>false</AccountantCompileOrReview>
+      <FSAudited>true</FSAudited>
+      <AuditCommittee>true</AuditCommittee>
+      <FinancialStatementBoth>X</FinancialStatementBoth>
+      <FederalGrantAuditRequired>false</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="IRS990ScheduleA">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>569604</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>596134</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>746112</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>793000</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>785493</CurrentTaxYear>
+        <Total>3490343</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus4Years>569604</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>596134</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>746112</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>793000</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>785493</CurrentTaxYear>
+        <Total>3490343</Total>
+      </Total509>
+      <PublicSupportTotal509>3490343</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>20978</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>23428</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>11412</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>4892</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>3569</CurrentTaxYear>
+        <Total>64279</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>20978</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>23428</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>11412</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>4892</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>3569</CurrentTaxYear>
+        <Total>64279</Total>
+      </InvestmentIncomeAndUBTI>
+      <OtherIncome509>
+        <CurrentTaxYearMinus4Years>0</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>0</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>0</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>0</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>0</CurrentTaxYear>
+        <Total>0</Total>
+      </OtherIncome509>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>590582</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>619562</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>757524</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>797892</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>789062</CurrentTaxYear>
+        <Total>3554622</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.98192</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.97738</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.01808</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.02262</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleD documentId="IRS990ScheduleD">
+      <ArtPublicExhibitionAmts />
+      <HeldWorksOfArtAmts />
+      <Land />
+      <Buildings />
+      <LeaseholdImprovements />
+      <Equipment>
+        <OtherCostOrOtherBasis>208576</OtherCostOrOtherBasis>
+        <Depreciation>174216</Depreciation>
+        <BookValue>34360</BookValue>
+      </Equipment>
+      <OtherLandBuildings />
+      <TotalOfBookValueLandBuildings>34360</TotalOfBookValueLandBuildings>
+      <TotalRevenue>789062</TotalRevenue>
+      <TotalExpenses>658480</TotalExpenses>
+      <ExcessOrDeficitForYear>130582</ExcessOrDeficitForYear>
+      <ExcessOrDeficitPerFS>130582</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>1419025</TotRevenueEtcAuditedFinclStmt>
+      <DonatedSrvcAndUseOfFacilities>629963</DonatedSrvcAndUseOfFacilities>
+      <RevenueNotRptdF990>629963</RevenueNotRptdF990>
+      <RevenueSubtotal>789062</RevenueSubtotal>
+      <TotalRevenuePerForm990>789062</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>1288443</TotExpensesEtcAuditedFinclStmt>
+      <DonatedServicesUseOfFacilities>629963</DonatedServicesUseOfFacilities>
+      <ExpensesNotRptdF990>629963</ExpensesNotRptdF990>
+      <ExpensesSubtotal>658480</ExpensesSubtotal>
+      <TotalExpensesPerForm990>658480</TotalExpensesPerForm990>
+    </IRS990ScheduleD>
+    <IRS990ScheduleO documentId="IRS990ScheduleO">
+      <GeneralExplanation>
+        <Identifier>governing body and management</Identifier>
+        <ReturnReference>Form 990, part VI, Section A</ReturnReference>
+        <Explanation>Line 7a - The Association's Board of Directors is comprised of 6 student representatives. Students attending Queens College elect the student representatives to sit on the Board.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Policies</Identifier>
+        <ReturnReference>Form 990, Part VI, Section B</ReturnReference>
+        <Explanation>Line 11 - The Form 990 was prepared by a nationally renowned accounting firm in conjunction with the organization's financial department. A copy of the draft Form 990 was circulated to the full Board of Trustees for discussion and comment. Each Board Member was provided ample opportunity to comment on the information contained in the 990 prior to its filing with the Internal Revenue Service. Line 12 - The Association operates under the conflict of interest policy of its parent organization, Queens College of the City of New York. Each officer, director, trustee and key employee of the College is required to annually disclose any conflicts of interest that arise by virtue of their employment, board service, or position with the College. The College monitors compliance with its conflict of interest policy through an annual questionnaire/disclosure statement that is distributed to these individuals. Potential conflicts are investigated immediately. Line 14 - The Association operates under the document retention policy of its parent organization, Queens College. Line 15 - The Association does not compensate any of the individuals reported in Part VII of the Form 990; all compensation is paid by a related organization, Queens College of the City of New York. Queens College is a municipal employer and all salaries are governed by contracts negotiated between the State, New York City and Trade and Municipal unions.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Disclosure</Identifier>
+        <ReturnReference>Form 990, Part VI, Section C</ReturnReference>
+        <Explanation>LIne 19 - The organization makes its Form 990 available to the public by retaining a copy at its place of business. The Form 990 is likewise published on the internet at www.guidestar.org. The organization's financial statements, governing documents and conflict of interest policy will be available to the public upon request and at management's discretion.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Schedule R</Identifier>
+        <Explanation>The Association operates on the campus of the college and, as such, utilizes space and certain services made available to it. The estimated cost savings associated with any such arrangements are recorded as donated space and services and recognized as revenues and expenses in the accompanying financial statements based on an estimate of the fair value of the services received.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, part VII</Identifier>
+        <Explanation>The Student representatives on the Board of Directors may be compensated with a small stipend that does not exceed $5,000; this stipend is not payment for services rendered as a board representative and is therefore not required to be disclosed on the Form 990.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="IRS990ScheduleR">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>QUEENS COLLEGE AUXILIARY ENTERPRISE ASSO</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>65-30 KISSINA BOULEVARD</AddressLine1>
+          <City>FLUSHING</City>
+          <State>NY</State>
+          <ZIPCode>11367</ZIPCode>
+        </AddressUS>
+        <EIN>113117003</EIN>
+        <PrimaryActivities>Support</PrimaryActivities>
+        <LegalDomicileState>NY</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11</PublicCharityStatus>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>QUEENS COLLEGE STUDENT SERVICES CORP</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>65-30 KISSINA BOULEVARD</AddressLine1>
+          <City>FLUSHING</City>
+          <State>NY</State>
+          <ZIPCode>11367</ZIPCode>
+        </AddressUS>
+        <EIN>116080523</EIN>
+        <PrimaryActivities>Support</PrimaryActivities>
+        <LegalDomicileState>NY</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Queens College of CUNY</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>65-30 KISSENA BOULEVARD</AddressLine1>
+          <City>Flushing</City>
+          <State>NY</State>
+          <ZIPCode>11367</ZIPCode>
+        </AddressUS>
+        <EIN>116001344</EIN>
+        <PrimaryActivities>Education</PrimaryActivities>
+        <LegalDomicileState>NY</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>6</PublicCharityStatus>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Research foundation of CUNY</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>230 W 41st St</AddressLine1>
+          <City>New York</City>
+          <State>NY</State>
+          <ZIPCode>10036</ZIPCode>
+        </AddressUS>
+        <EIN>131988190</EIN>
+        <PrimaryActivities>research</PrimaryActivities>
+        <LegalDomicileState>NY</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>7</PublicCharityStatus>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>false</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>false</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>true</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>false</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>false</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>false</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>false</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>false</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>false</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>false</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>true</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>true</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>true</SharingOfFacilities>
+      <SharingOfPaidEmployees>true</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>true</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>false</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>false</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>false</OtherTransferFromOtherOrg>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>
