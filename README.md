@@ -25,6 +25,10 @@ Queens College Student Government; SA also allocates funds and space for clubs.
 
 The oldest such organization in CUNY, CDS advocates for and provides services to students with disabilities
 
+Location: Kiely Hall #175
+
+email: [queenscollege.cds@gmail.com](mailto:queenscollege.cds@gmail.com)
+
 [Link to CDS Leadership Directory](CDS.md)
 
 
